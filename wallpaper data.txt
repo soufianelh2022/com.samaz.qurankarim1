@@ -24,7 +24,7 @@
         "title": "EVER ACME"
     },
  {
-        "url": "https://static1.tgcnt.ru/posts/_0/c1/c1c3c6fb9b03911625844219b022a9bb.jpg",
+        "url": "https://chrono.ru/netcat_files/889/2442/kartinki_titanik_19.jpg",
         "title": "CMACGM JACQUES SAADE"
     },
  {
