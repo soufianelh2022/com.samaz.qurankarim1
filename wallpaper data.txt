@@ -33,7 +33,7 @@
     },
 
     {
-        "url": "https://farm2.staticflickr.com/1533/26541536141_41abe98db3_z_d.jpg",
+        "url": "https://pic.rutubelist.ru/video/86/6f/866f301334c1aa0052ccc5a2931b1537.jpg",
         "title": "MSC CELESTINOMARESCA"
     }
 ]
