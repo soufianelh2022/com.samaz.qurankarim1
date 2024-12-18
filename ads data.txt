@@ -7,7 +7,7 @@
      "ShowLoadingAds": true,
 
    
-    "IronAppKey": "147d445d9",
+    "IronAppKey": "1ded5ca1d",
     "IronBanner": "DefaultBanner",
     "IronInterstitial": "DefaultInterstitial",
     "ironsource_reward":"DefaultReward",
@@ -24,10 +24,10 @@
 "admob_reward":"ca-app-pub-5318077592177136/1672210363",
 
     
-    "priorityInterstitial": "admob",
-    "PriorityBanner": "admob",
-    "PriorityReward": "admob",
-    "PriorityNative": "admob"
+    "priorityInterstitial": "ironsource",
+    "PriorityBanner": "ironsource",
+    "PriorityReward": "ironsource",
+    "PriorityNative": "ironsource"
 
 
     
