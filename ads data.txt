@@ -7,7 +7,7 @@
      "ShowLoadingAds": true,
 
    
-    "IronAppKey": "1ded5ca1d",
+    "IronAppKey": "208591d65",
     "IronBanner": "DefaultBanner",
     "IronInterstitial": "DefaultInterstitial",
     "ironsource_reward":"DefaultReward",
