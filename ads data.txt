@@ -12,11 +12,11 @@
     "IronInterstitial": "DefaultInterstitial",
     "ironsource_reward":"DefaultReward",
 
-     "yandex_banner": "demo-banner-yandex",
-     "yandex_inter": "demo-interstitial-yandex",
-     "yandex_native": "demo-native-app-yandex",
-    "yandex_reward":"demo-rewarded-yandex",
-    "openadyandex":"demo-appopenad-yandex",
+     "yandex_banner": "R-M-13477443-1",
+     "yandex_inter": "R-M-13477443-3",
+     "yandex_native": "R-M-13477443-2",
+    "yandex_reward":"dR-M-13477443-4",
+    "openadyandex":"R-M-13477443-5",
 
     "admob_inter":"ca-app-pub-5318077592177136/9542127375",
 "admob_banner":"ca-app-pub-5318077592177136/6853247253",
@@ -24,10 +24,10 @@
 "admob_reward":"ca-app-pub-5318077592177136/1672210363",
 
     
-    "priorityInterstitial": "ironsource",
-    "PriorityBanner": "ironsource",
-    "PriorityReward": "ironsource",
-    "PriorityNative": "ironsource"
+    "priorityInterstitial": "yandex",
+    "PriorityBanner": "yandex",
+    "PriorityReward": "yandex",
+    "PriorityNative": "yandex"
 
 
     
