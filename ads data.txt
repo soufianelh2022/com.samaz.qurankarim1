@@ -1,42 +1,40 @@
-{
-  "ads": {
-   
+{"ads":{
+  
+  "ShowAds":true,
+  "ClickCount":1,
+   "ShowLoadingAds":true,
+  
+  "IronAppKey":"147d445d9",
+  "IronBanner":"DefaultBanner",
 
-     "ShowAds": true,
-     "ClickCount": 1,
-     "ShowLoadingAds": true,
+  
+  "admob_open":"ca-app-pub-3940256099942544/9257395921",
+  "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+  "admob_native":"ca-app-pub-3940256099942544/2247696110",
+  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
-   
-    "IronAppKey": "208591d65",
-    "IronBanner": "DefaultBanner",
-    "IronInterstitial": "DefaultInterstitial",
-    "ironsource_reward":"DefaultReward",
+  
+  "openadyandex":"demo-appopenad-yandex",
+  "yandex_inter":"demo-interstitial-yandex",
+  "yandex_banner":"demo-banner-yandex",
+  "yandex_native":"demo-native-app-yandex",
+  "yandex_reward":"demo-rewarded-yandex",
+  
+  "MaxBanner": "7c217530b37da6db",
+  "MaxNative": "c6feb0531b2bb192",
+  "MaxInterstitial": "c9feceddbf0d8ec2",
+  "Maxopen":"9f9e60545e946f33",
+  
+  "PriorityBanner":"max",
+  "PriorityNative":"max",
+  "PriorityReward":"admob",
+  "PriorityOpen":"max",
+  "priorityInterstitial":"max",
+ 
+  "IronInterstitial":"DefaultInterstitial",
+  "ironsource_reward":"DefaultReward"
+  
+}
 
-     "yandex_banner": "R-M-13477443-1",
-     "yandex_inter": "R-M-13477443-3",
-     "yandex_native": "R-M-13477443-2",
-    "yandex_reward":"dR-M-13477443-4",
-    "openadyandex":"R-M-13477443-5",
-
-    "admob_inter":"ca-app-pub-5318077592177136/9542127375",
-"admob_banner":"ca-app-pub-5318077592177136/6853247253",
-"admob_native":"ca-app-pub-5318077592177136/3337679661",
-"admob_reward":"ca-app-pub-5318077592177136/1672210363",
-
-    
-    "priorityInterstitial": "yandex",
-    "PriorityBanner": "yandex",
-    "PriorityReward": "yandex",
-    "PriorityNative": "yandex"
-
-
-    
-    
-   
-    
-   
-    
-    
-    
-  }
 }
