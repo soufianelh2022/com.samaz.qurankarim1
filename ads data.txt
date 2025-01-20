@@ -21,7 +21,7 @@
   "yandex_native":"demo-native-app-yandex",
   "yandex_reward":"demo-rewarded-yandex",
   
-  "MaxBanner": "02a6dc3ecb86c",
+  "MaxBanner": "02a6dc3ecb8",
   "MaxNative": "6f51bfbe3db1fade",
   "MaxInterstitial": "55255add5e4d07f1",
   "Maxopen":"82720f04324bcbe8",
