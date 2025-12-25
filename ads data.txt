@@ -8,11 +8,11 @@
   "IronBanner":"DefaultBanner",
 
   
-  "admob_open":"ca-app-pub-5318077592177136/4334985382",
-  "admob_inter":"ca-app-pub-5318077592177136/9542127375",
-  "admob_banner":"ca-app-pub-5318077592177136/6853247253",
-  "admob_native":"ca-app-pub-5318077592177136/3337679661",
-  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
+  "admob_open":"ca-app-pub-5318077592177136/9320209326",
+  "admob_inter":"ca-app-pub-5318077592177136/9683171407",
+  "admob_banner":"ca-app-pub-5318077592177136/1996253070",
+  "admob_native":"ca-app-pub-5318077592177136/4430844722",
+  "admob_reward":"ca-app-pub-5318077592177136/7057008066",
 
   
   "openadyandex":"demo-appopenad-yandex",
@@ -38,3 +38,4 @@
 }
 
 }
+
