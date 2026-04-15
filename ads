@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "cooldown_app_open_sec": 300,
   "interstitial_action_count": 2,
   "app_open_ad_unit_id": "ca-app-pub-5318077592177136/9320209326",
