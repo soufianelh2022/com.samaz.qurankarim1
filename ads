@@ -7,6 +7,6 @@
   "rewarded_ad_unit_id": "ca-app-pub-5318077592177136/7057008066",
   "native_banner_onboarding_id": "ca-app-pub-5318077592177136/4430844722",
   "native_banner_selection_id": "ca-app-pub-5318077592177136/4430844722",
-  "native_enabled": false,
-  "native_placement": "false"
+  "native_enabled": true,
+  "native_placement": "all"
 }
