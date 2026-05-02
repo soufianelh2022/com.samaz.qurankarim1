@@ -10,6 +10,6 @@
   "native_banner_onboarding_id": "ca-app-pub-3940256099942544/2247696110",
   "native_banner_selection_id": "ca-app-pub-3940256099942544/2247696110",
 
-  "native_enabled": true,
+  "native_enabled": false,
   "native_placement": "all"
 }
