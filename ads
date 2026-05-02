@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "cooldown_app_open_sec": 300,
   "interstitial_action_count": 2,
 
