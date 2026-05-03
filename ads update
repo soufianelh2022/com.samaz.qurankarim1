@@ -2,7 +2,7 @@
   "ads_enabled": true,
   "cooldown_app_open_sec": 300,
   "interstitial_action_count": 3,
-  "app_open_ad_unit_id": "ca-app-pub-3940256099942544/92573959214",
+  "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
   "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
   "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
   "banner_onboarding_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
