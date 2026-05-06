@@ -1,5 +1,7 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
+  "ads_provider": "admob",
+  "applovin_sdk_key": "",
   "cooldown_app_open_sec": 300,
   "interstitial_action_count": 3,
   "app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
