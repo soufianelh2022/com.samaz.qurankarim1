@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "ads_provider": "admob",
   "applovin_sdk_key": "",
   "cooldown_app_open_sec": 300,
